@@ -8,4 +8,4 @@ Use the below link to download the Data Set:[here](https://github.com/Alisha0214
 In this dataset i've used a clustering algorithm to perform segmentation.These algorithms are given below.
 - [K-Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
 ### Final Model  :
-created a Streamlit Application based on this clustering technique, where we are taking the customer details & identifying which cluster the custoemr belongs to.
+Created a Streamlit Application based on this clustering technique, where we are taking the customer details & identifying which cluster the custoemr belongs to.
